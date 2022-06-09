@@ -21,7 +21,8 @@ drawings:
   persist: false
 fonts:
   sans: 'M PLUS 1'
-  serif: 'Noto Serif Japanese'
+  serif: 'Zen Antique Soft'
+  mono: 'Source Code Pro'
 ---
 
 # 音のような言葉
@@ -31,12 +32,12 @@ Tatsuya Sato (satoryu)
 
 2022-06-18 Scrum Fest Osaka 2022
 
-<div class="absolute bottom-0 right-0">
+<BottomRightCaption>
 
   Photo by [Jason Rosewell](https://unsplash.com/@jasonrosewell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/collections/Mfs_1JsiaKU/sfo2022?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-</div>
+</BottomRightCaption>
 
 ---
 layout: section
@@ -81,3 +82,50 @@ url: https://www.satoryu.com/business/
 Silver Bullet Clubというエンジニアチームに所属しています。
 
 ![Silver Bullet CLubロゴ](https://silver-bullet.club/assets/img/silverbulletclub_banner.png)
+
+---
+layout: iframe
+url: https://silver-bullet.club/blog/2021/09/01/teamfa2nd.html
+---
+
+# チームFA宣言していました。
+
+---
+layout: statement
+---
+# FA先、決まりました！
+
+## 7月から新しい会社で働きます！
+
+---
+layout: section
+---
+
+# ところで
+
+---
+layout: statement
+---
+
+# お給料UPします！
+
+---
+layout: statement
+---
+
+# そのために
+# やってきたことがあります
+
+---
+layout: image
+image: https://source.unsplash.com/ICwuKvw9QJk
+---
+
+# 懸垂
+
+
+---
+layout: quote
+---
+
+# 「え？懸垂？」
