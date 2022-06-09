@@ -129,3 +129,17 @@ layout: quote
 ---
 
 # 「え？懸垂？」
+
+---
+layout: iframe
+url: https://en.wikipedia.org/wiki/Chin-up
+---
+
+---
+layout: statement
+---
+
+# 懸垂
+# →Chin-up
+# →チンアップ
+# →賃アップ
