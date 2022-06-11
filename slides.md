@@ -59,9 +59,10 @@ image: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/40139780_102145193387496
 
 ## 趣味
 
-- 蟻
 - [BABYMETAL](https://babymetal.com/)
 - [武藤彩未](http://ayamimuto.com/)
+- 蟻
+- 駄洒落
 
 ---
 layout: iframe-right
@@ -123,6 +124,11 @@ image: https://source.unsplash.com/ICwuKvw9QJk
 
 # 懸垂
 
+<BottomRightCaption>
+
+  Photo by [Lawrence Crayton](https://unsplash.com/es/@nextfnlevel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/Mfs_1JsiaKU/sfo2022?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: quote
@@ -135,6 +141,8 @@ layout: iframe
 url: https://en.wikipedia.org/wiki/Chin-up
 ---
 
+# Chin-up
+
 ---
 layout: statement
 ---
@@ -143,3 +151,68 @@ layout: statement
 # →Chin-up
 # →チンアップ
 # →賃アップ
+
+---
+layout: section
+---
+
+# 本題
+
+---
+layout: image-right
+image: https://source.unsplash.com/npxXWgQ33ZQ
+---
+
+# テキストチャットの重要性
+
+- COVID-19によりリモートでコミュニケーションをとることが増えた
+- 常にオンラインミーティングが発達
+  - しかし、同期的コミュニケーションなのでオフラインのようなコストがかかる
+- 非同期としてチャットツールの利用シーンも増加
+
+<BottomRightCaption>
+
+  Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/text-chat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+
+# コミュニティでも同様
+
+- 同じくオンライン開催が増えた
+- この数年で、オンラインミーティングツールとチャットツールの併用が当たり前に。
+
+---
+layout: section
+---
+
+# さて皆さん
+
+
+---
+layout: section
+---
+
+# オンラインコミュニティの
+# 雰囲気を
+# 残せていますか？
+
+<!--
+TODO: スクフェス札幌のスライドを引用して、コミュニティイベントは参加者も一緒になってつくる
+-->
+
+---
+
+# オンラインコミュニティでの残し方
+
+- 動画アーカイブ公開
+- ブログ
+
+---
+
+# オンラインコミュニティでの残し方
+
+- 動画アーカイブ公開
+- ブログ
+- **テキストチャット**
