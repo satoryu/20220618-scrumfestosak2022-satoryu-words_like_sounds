@@ -177,6 +177,12 @@ image: https://source.unsplash.com/P5MXtYfgmmw
 
 </v-click>
 
+<BottomRightCaption>
+
+Photo by [Nathan Dumlao](https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/kids-playing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
 ---
 layout: image-right
 image: https://source.unsplash.com/npxXWgQ33ZQ
