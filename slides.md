@@ -159,6 +159,25 @@ layout: section
 # 本題
 
 ---
+layout: statement
+---
+
+# 本日伝えたいこと
+
+---
+layout: image-right
+image: https://source.unsplash.com/P5MXtYfgmmw
+---
+
+# 無茶苦茶 わいわいしていこう！
+
+<v-click>
+
+## もちろんテキストで。
+
+</v-click>
+
+---
 layout: image-right
 image: https://source.unsplash.com/npxXWgQ33ZQ
 ---
@@ -166,9 +185,9 @@ image: https://source.unsplash.com/npxXWgQ33ZQ
 # テキストチャットの重要性
 
 - COVID-19によりリモートでコミュニケーションをとることが増えた
-- 常にオンラインミーティングが発達
-  - しかし、同期的コミュニケーションなのでオフラインのようなコストがかかる
-- 非同期としてチャットツールの利用シーンも増加
+- オンラインミーティングが発達
+  - しかし、同期的なのでオフラインのようなコストがかかる
+- 非同期としてチャットツールの利用が増加
 
 <BottomRightCaption>
 
@@ -181,7 +200,7 @@ image: https://source.unsplash.com/npxXWgQ33ZQ
 # コミュニティでも同様
 
 - 同じくオンライン開催が増えた
-- この数年で、オンラインミーティングツールとチャットツールの併用が当たり前に。
+- オンラインミーティングツールとチャットツールの併用が当たり前に。
 
 ---
 layout: section
@@ -204,7 +223,7 @@ TODO: スクフェス札幌のスライドを引用して、コミュニティ�
 
 ---
 
-# オフラインコミュニティでの残し方
+# オフライン参加での残し方
 
 - 発表スライド
 - 動画
@@ -225,7 +244,7 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 
 # 動画
 
-- 発表スライドより、その場で起きたことがわかる
+- 発表スライドよりも、その場で起きたことがわかる
 - 講演者がどう振る舞ったのかが観れる
 - 参加者がどう受け取ったのかがわかりづらい
 
@@ -239,7 +258,7 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 
 ---
 
-# オンラインコミュニティでの残し方
+# オンライン参加での残し方
 
 - 発表スライド
 - 動画アーカイブ公開
@@ -299,3 +318,105 @@ image: discord-unread-channels.png
 - 煩そう
 
 </v-clicks>
+
+---
+layout: section
+---
+
+# オンライン参加だから
+# できること
+
+---
+layout: image
+image: https://source.unsplash.com/lp1AKIUV3yo
+---
+
+# 講演中にテキストでおしゃべり
+
+<BottomRightCaption>
+
+Photo by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+
+# 講演中にテキストでおしゃべり
+
+- オフラインの場合
+  - 講演者の声に割り込んでしまい、他の参加者の邪魔になる。
+- テキストは邪魔になりにくい
+- 質問を講演者が拾ってくれたり
+- 参加者同志でその場で議論できる
+
+---
+layout: statement
+---
+
+# テキストチャットが
+# 講演中の体験を作る
+
+---
+layout: statement
+---
+
+# 無茶苦茶
+# わいわいしていこう！
+
+<v-click>
+
+## もちろんテキストで。
+
+</v-click>
+
+---
+layout: image-right
+image: https://source.unsplash.com/49uySSA678U
+---
+
+# で、どうやるの？
+
+<BottomRightCaption>
+
+Photo by [Simone Secci](https://unsplash.com/@simonesecci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/question?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+layout: statement
+---
+
+# ちゃちゃっとできる
+# テキストチャットの
+# Tipsを紹介
+
+
+---
+
+# ちゃちゃっとできるテキストチャットのTips
+
+1. オウム返し
+2. 黄色い声援
+3. 共感を示す
+4. 情報屋
+5. 画像職人
+6. 意図を添える
+7. ボケる
+
+---
+
+# オウム返し
+
+- 聞いていて心にひっかかった言葉を書く
+- 意見や感想などは書かず、フレーズや単語だけでいい
+
+## 例
+
+- オウム返し
+- フレーズや単語だけでいい
+
+---
+
+# 黄色い声援
+
+- 講演開始時に、
