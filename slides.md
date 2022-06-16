@@ -12,10 +12,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  スクラムフェスト大阪2022 栃木トラックでの発表資料
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -212,20 +209,22 @@ image: https://source.unsplash.com/npxXWgQ33ZQ
 layout: section
 ---
 
-# さて皆さん
+# テキストチャットが
+# 与えてくれるもの
 
+---
+
+# テキストチャットが与えてくれるもの
+
+1. 雰囲気を残せる
+2. 講演者を安心させる
+3. 体験を作る
 
 ---
 layout: section
 ---
 
-# オンラインコミュニティの
-# 雰囲気を
-# 残せていますか？
-
-<!--
-TODO: スクフェス札幌のスライドを引用して、コミュニティイベントは参加者も一緒になってつくる
--->
+# 雰囲気を残せる
 
 ---
 
@@ -329,6 +328,27 @@ image: discord-unread-channels.png
 layout: section
 ---
 
+# 講演者を安心させる
+---
+
+# 講演者を安心させる
+
+- 講演者はいろんな不安がある
+  - そもそも音が聞こえているのか
+  - 興味を引きつけているか
+  - メッセージが届いているのか
+- テキストで反応してあげるだけで不安を解消
+
+---
+layout: section
+---
+
+# 体験を作る
+
+---
+layout: section
+---
+
 # オンライン参加だから
 # できること
 
@@ -349,11 +369,11 @@ Photo by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&utm_me
 
 # 講演中にテキストでおしゃべり
 
-- オフラインの場合
-  - 講演者の声に割り込んでしまい、他の参加者の邪魔になる。
 - テキストは邪魔になりにくい
-- 質問を講演者が拾ってくれたり
+  - 講演者の声をさえぎらない
+  - 他の参加者の邪魔にならない
 - 参加者同志でその場で議論できる
+- 質問を講演者が拾ってくれたり
 
 ---
 layout: statement
@@ -432,8 +452,7 @@ layout: statement
 
 # ちゃちゃっとできる
 # テキストチャットの
-# Tipsを紹介
-
+# Tips
 
 ---
 
@@ -473,10 +492,12 @@ image: ./yellow-cheers-example.png
 
 # 共感を示す
 
-- 講演者は共感を求めているスライドへの反応が気になる
 - わかった、というそれだけを伝えよう。
+- 講演者にだけでなく、他の参加者に対しても
 
 ## 例
+
+ほんの一言だけでもOK
 
 - > わかる
 - > それな
@@ -491,6 +512,15 @@ image: ./yellow-cheers-example.png
   - オンライン参加だと、聞きながらWeb検索ができる。
 - キーワードでググって1件目を共有するだけでも効果アリ
 
+<!--
+
+たとえば、さっき紹介した論文を後で詳しく読みたいとか思ったら、
+タイトルで検索して、URLをチャットに貼るだけです。
+
+https://arxiv.org/abs/2004.09786
+
+-->
+
 ---
 
 # 画像職人
@@ -503,6 +533,50 @@ image: ./yellow-cheers-example.png
 # ボケる
 
 - くだらない事を思いついたら書いてみる
-- スライドのキーワードに絡んだ駄洒落を書いてみよう
+  - スライドのキーワードに絡んだ駄洒落を書いてみよう
 - どんなことを書いても良い、という雰囲気作り
   - 少しは和やかな雰囲気が出せる（かも
+- インパクトがあって覚えやすい（はず
+
+---
+layout: section
+---
+
+# クイズ
+
+---
+layout: section
+---
+
+# お給料を上げるためにやっていたこととは？
+
+---
+layout: image
+image: https://source.unsplash.com/ICwuKvw9QJk
+---
+
+# 懸垂
+
+<BottomRightCaption>
+
+  Photo by [Lawrence Crayton](https://unsplash.com/es/@nextfnlevel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/Mfs_1JsiaKU/sfo2022?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+layout: section
+---
+
+# まとめ
+
+---
+
+# テキストチャットは重要
+
+- 雰囲気を残せる
+- 講演者に安心を与える
+- 体験を作る
+
+---
+
+# 無茶苦茶わいわいしていこう
