@@ -377,6 +377,44 @@ layout: statement
 
 ---
 layout: image-right
+image: max16011508-2_TP_V.jpeg
+---
+
+# でも、それってコミュニティだけの話でしょ？
+
+<BottomRightCaption>
+
+[フリー写真素材ぱくたそ](https://www.pakutaso.com)
+
+</BottomRightCaption>
+
+---
+
+# チャットが盛り上がると、生産性も高まるらしい
+
+- テキストチャットの投稿が多いと、コミット数が多くなるという研究論文がある
+- ネガティブ、ポジティブな発言であるかは関係ないらしい
+
+## 参考
+
+- [[2004.09786] Chat activity is a better predictor than chat sentiment on software developers productivity](https://arxiv.org/abs/2004.09786)
+
+---
+layout: statement
+---
+
+# 仕事でも
+# 無茶苦茶
+# わいわいしていこう！
+
+<v-click>
+
+## もちろんテキストで。
+
+</v-click>
+
+---
+layout: image-right
 image: https://source.unsplash.com/49uySSA678U
 ---
 
