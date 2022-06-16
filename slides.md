@@ -245,6 +245,15 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 - 説明的な文章ではなかったり
 - 講演の場で話されたことは残らない
 
+<BottomRightCaption>
+
+Photo by [Slidebean](https://unsplash.com/@slidebean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+layout: image-right
+image: https://source.unsplash.com/FpWaEa2_d5w
 ---
 
 # 動画
@@ -253,6 +262,14 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 - 講演者がどう振る舞ったのかが観れる
 - 参加者がどう受け取ったのかがわかりづらい
 
+<BottomRightCaption>
+
+Photo by [Osarugue Igbinoba](https://unsplash.com/@osarugue?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+---
+layout: image-right
+image: https://source.unsplash.com/3GZNPBLImWc
 ---
 
 # ブログ
@@ -260,6 +277,12 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 - 発表者、参加者が文章として残した記録
 - 映像に残っていないことや感情や講演以外の情報もある
 - あくまで、いち個人の目線
+
+<BottomRightCaption>
+
+Photo by [Kenny Eliason](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 
@@ -271,12 +294,21 @@ image: https://source.unsplash.com/jaOeFnmzfsw
 - **テキストチャット** ←
 
 ---
+layout: image-right
+image: https://source.unsplash.com/gUIJ0YszPig
+---
 
 # テキストチャット
 
 - 講演中に参加者によって書き残される
 - 講演者や参加者同志での対話やその場で感じたことが残される
 - 後から見た人が、講演中の雰囲気をより感じ取り易い
+
+<BottomRightCaption>
+
+Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/slack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: section
@@ -329,6 +361,10 @@ layout: section
 ---
 
 # 講演者を安心させる
+
+---
+layout: image-right
+image: https://source.unsplash.com/1K9T5YiZ2WU
 ---
 
 # 講演者を安心させる
@@ -338,6 +374,12 @@ layout: section
   - 興味を引きつけているか
   - メッセージが届いているのか
 - テキストで反応してあげるだけで不安を解消
+
+<BottomRightCaption>
+
+Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/anxious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: section
@@ -353,18 +395,14 @@ layout: section
 # できること
 
 ---
-layout: image
-image: https://source.unsplash.com/lp1AKIUV3yo
+layout: statement
 ---
 
 # 講演中にテキストでおしゃべり
 
-<BottomRightCaption>
-
-Photo by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-</BottomRightCaption>
-
+---
+layout: image-right
+image: https://source.unsplash.com/lp1AKIUV3yo
 ---
 
 # 講演中にテキストでおしゃべり
@@ -374,6 +412,12 @@ Photo by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&utm_me
   - 他の参加者の邪魔にならない
 - 参加者同志でその場で議論できる
 - 質問を講演者が拾ってくれたり
+
+<BottomRightCaption>
+
+Photo by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/conversation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: statement
@@ -466,6 +510,9 @@ layout: statement
 6. ボケる
 
 ---
+layout: image-right
+image: https://source.unsplash.com/_VrrhJih3bs
+---
 
 # オウム返し
 
@@ -477,6 +524,12 @@ layout: statement
 
 まさにこのスライドだと
 > オウム返し
+
+<BottomRightCaption>
+
+Photo by [Joe Richmond](https://unsplash.com/@joedesigner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/parrot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: image-right
@@ -503,14 +556,22 @@ image: ./yellow-cheers-example.png
 - > それな
 
 ---
+layout: image-right
+image: https://source.unsplash.com/LPylXWfMpgE
+---
 
 # 情報屋
 
-- 講演中、重要と思われるけど知らない言葉だけが出てくることがある
-  - もしかしたら他の参加者も同じかもしれない
 - 調べたURLをそのままテキストチャットに貼り付けよう
   - オンライン参加だと、聞きながらWeb検索ができる。
+- もしかしたら他の参加者も知りたいかもしれない
 - キーワードでググって1件目を共有するだけでも効果アリ
+
+<BottomRightCaption>
+
+Photo by [Ali Hajian](https://unsplash.com/@alisvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/detective?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 <!--
 
@@ -528,6 +589,11 @@ https://arxiv.org/abs/2004.09786
 - 言葉だけだと伝わりづらいこともある
 - 講演中のキーワードを検索して、見つけた画像を共有しよう
 
+
+
+---
+layout: image-right
+image: https://source.unsplash.com/aTuAKskNy7Y
 ---
 
 # ボケる
@@ -537,6 +603,12 @@ https://arxiv.org/abs/2004.09786
 - どんなことを書いても良い、という雰囲気作り
   - 少しは和やかな雰囲気が出せる（かも
 - インパクトがあって覚えやすい（はず
+
+<BottomRightCaption>
+
+Photo by [Steve Harrris](https://unsplash.com/@stevemyra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/comedy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
 
 ---
 layout: section
@@ -578,5 +650,14 @@ layout: section
 - 体験を作る
 
 ---
+layout: fact
+---
 
-# 無茶苦茶わいわいしていこう
+# 無茶苦茶
+# わいわいしていこう
+
+<v-click>
+
+## もちろんテキストで。
+
+</v-click>
