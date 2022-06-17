@@ -58,8 +58,34 @@ image: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/40139780_102145193387496
 
 - [BABYMETAL](https://babymetal.com/)
 - [武藤彩未](http://ayamimuto.com/)
-- 蟻
+- アリの飼育
 - 駄洒落
+
+---
+layout: image-right
+image: https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/288651033_10224612573474246_6534815944102022460_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=-mzsiVpWfaUAX_iCMPQ&tn=hUxJSasXOXAX7zhg&_nc_ht=scontent-nrt1-1.xx&oh=00_AT-WFAhj2FlCepE8G_odO0aNXtkSJhpiDX8t3xuchddCtg&oe=62B23BBD
+---
+
+# アリの飼育
+
+女王アリを捕まえて、育てています。
+
+- クロヤマアリ
+- トビイロシワアリ
+- キイロシリアゲアリ
+- トビイロケアリ
+
+クロオオアリを捕まえたい。
+
+---
+layout: iframe-right
+url: https://ant-nest-viewer.netlify.app/
+---
+
+# アリの巣を見たい
+
+実際の巣の3Dデータを手に入れたので、
+ブラウザで見えるようにしてみた。
 
 ---
 layout: iframe-right
@@ -91,7 +117,7 @@ url: https://silver-bullet.club/blog/2021/09/01/teamfa2nd.html
 ---
 layout: statement
 ---
-# FA先、決まりました！
+# 転職先、決まりました！
 
 ## 7月から新しい会社で働きます！
 
@@ -99,7 +125,7 @@ layout: statement
 layout: section
 ---
 
-# ところで
+# ちなみに
 
 ---
 layout: statement
@@ -398,14 +424,14 @@ layout: section
 layout: statement
 ---
 
-# 講演中にテキストでおしゃべり
+# 講演中におしゃべり
 
 ---
 layout: image-right
 image: https://source.unsplash.com/lp1AKIUV3yo
 ---
 
-# 講演中にテキストでおしゃべり
+# 講演中におしゃべり
 
 - テキストは邪魔になりにくい
   - 講演者の声をさえぎらない
@@ -499,6 +525,21 @@ layout: statement
 # Tips
 
 ---
+layout: two-cols
+---
+
+# 過去の投稿を振り返った
+
+とりあえず煩い人です
+
+過去の自分の投稿を一通り見返して、
+Tipsを探してみました。
+
+::right::
+
+![](my-posts.png)
+
+---
 
 # ちゃちゃっとできるテキストチャットのTips
 
@@ -583,13 +624,29 @@ https://arxiv.org/abs/2004.09786
 -->
 
 ---
+layout: image-right
+image: https://source.unsplash.com/EoCwQ5PerAs
+---
 
 # 画像職人
 
-- 言葉だけだと伝わりづらいこともある
 - 講演中のキーワードを検索して、見つけた画像を共有しよう
+- インパクトのあったスライドのスクリーンショットを共有しよう
+- 言葉だけだと伝わりづらいこともある
 
+<BottomRightCaption>
 
+Photo by [Kim Becker](https://unsplash.com/@ksbphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/photographer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</BottomRightCaption>
+
+---
+
+# こんな感じ
+
+ただ貼るだけ
+
+![](photographer.png)
 
 ---
 layout: image-right
@@ -600,8 +657,8 @@ image: https://source.unsplash.com/aTuAKskNy7Y
 
 - くだらない事を思いついたら書いてみる
   - スライドのキーワードに絡んだ駄洒落を書いてみよう
-- どんなことを書いても良い、という雰囲気作り
-  - 少しは和やかな雰囲気が出せる（かも
+- 「どんなことを書いても良い」雰囲気作り
+  - 和やかな雰囲気が出せる（かも
 - インパクトがあって覚えやすい（はず
 
 <BottomRightCaption>
@@ -648,6 +705,17 @@ layout: section
 - 雰囲気を残せる
 - 講演者に安心を与える
 - 体験を作る
+
+---
+
+# ちゃちゃっとできるテキストチャットのTips
+
+1. オウム返し
+2. 黄色い声援
+3. 共感を示す
+4. 情報屋
+5. 画像職人
+6. ボケる
 
 ---
 layout: fact
