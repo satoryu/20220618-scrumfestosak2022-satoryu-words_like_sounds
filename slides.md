@@ -174,7 +174,7 @@ url: https://www.satoryu.com/business/
 
 Silver Bullet Clubというエンジニアチームに所属しています。
 
-![Silver Bullet CLubロゴ](https://silver-bullet.club/assets/img/silverbulletclub_banner.png)
+![Silver Bullet Clubロゴ](/silverbulletclub_banner.png)
 
 ---
 layout: iframe
