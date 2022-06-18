@@ -560,7 +560,7 @@ Tipsを探してみました。
 
 ::right::
 
-![](my-posts.png)
+![My Past Posts](/my-posts.png)
 
 ---
 
@@ -669,7 +669,7 @@ Photo by [Kim Becker](https://unsplash.com/@ksbphotography?utm_source=unsplash&u
 
 ただ貼るだけ
 
-![](photographer.png)
+![](/photographer.png)
 
 ---
 layout: image-right
