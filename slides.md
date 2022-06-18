@@ -37,10 +37,79 @@ Tatsuya Sato (satoryu)
 </BottomRightCaption>
 
 ---
+layout: statement
+---
+
+# 音のような言葉
+
+---
+layout: iframe
+url: http://ayamimuto.com/
+---
+
+# 武藤彩未
+
+---
 layout: section
 ---
 
-# 自己紹介
+# 思考実験
+
+---
+layout: default
+---
+
+# 想像してみてください
+
+- 参加したかったオンライン勉強会当日に急用のため不参加
+- 気になったので、あとからテキストチャットを見に行った
+
+---
+layout: image-left
+image: discord-silent-channels.png
+---
+
+# どのように感じますか？
+
+<v-clicks>
+
+- 誰も参加してない？
+- そもそも行われなかった？
+- 何もわからない…
+
+</v-clicks>
+
+---
+layout: image-left
+image: discord-unread-channels.png
+---
+
+# どのように感じますか？
+
+<v-clicks>
+
+- 人がいたっぽい
+- おそらく開催された
+- 賑やか
+- 煩そう
+
+</v-clicks>
+
+---
+layout: statement
+---
+
+# 何か響くものがある
+
+そんな気がしません？
+
+---
+layout: section
+---
+
+# 「で、お前誰よ？」
+
+自己紹介
 
 ---
 layout: image-left
@@ -340,52 +409,6 @@ Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&
 layout: section
 ---
 
-# 思考実験
-
----
-layout: default
----
-
-# 想像してみてください
-
-- 参加したかったオンライン勉強会当日に急用のため不参加
-- 気になったので、あとからテキストチャットを見に行った
-
----
-layout: image-left
-image: discord-silent-channels.png
----
-
-# どのように感じますか？
-
-<v-clicks>
-
-- 誰も参加してない？
-- そもそも行われなかった？
-- 何もわからない…
-
-</v-clicks>
-
----
-layout: image-left
-image: discord-unread-channels.png
----
-
-# どのように感じますか？
-
-<v-clicks>
-
-- 人がいたっぽい
-- おそらく開催された
-- 賑やか
-- 煩そう
-
-</v-clicks>
-
----
-layout: section
----
-
 # 講演者を安心させる
 
 ---
@@ -659,7 +682,8 @@ image: https://source.unsplash.com/aTuAKskNy7Y
   - スライドのキーワードに絡んだ駄洒落を書いてみよう
 - 「どんなことを書いても良い」雰囲気作り
   - 和やかな雰囲気が出せる（かも
-- インパクトがあって覚えやすい（はず
+- メッセージを持ち帰りやすくする（はず
+  - インパクトがあって覚えやすい（はず
 
 <BottomRightCaption>
 
@@ -696,6 +720,57 @@ image: https://source.unsplash.com/ICwuKvw9QJk
 layout: section
 ---
 
+# 実践例
+
+---
+layout: section
+---
+
+# YOW
+
+---
+layout: image
+image: https://files.speakerdeck.com/presentations/d6ed0f07a94a4d5e90f607d014fcd8ad/slide_0.jpg
+---
+
+<BottomRightCaption>
+
+[シン・仮説検証 70000枚の付箋で分かった仮説検証のエッセンス / SHIN Hypothesis Testing - Speaker Deck](https://speakerdeck.com/moriyuya/shin-hypothesis-testing?slide=138)
+
+</BottomRightCaption>
+
+---
+layout: image
+image: https://files.speakerdeck.com/presentations/d6ed0f07a94a4d5e90f607d014fcd8ad/slide_137.jpg
+---
+
+# YOW
+
+---
+layout: image
+image: https://files.speakerdeck.com/presentations/d6ed0f07a94a4d5e90f607d014fcd8ad/slide_138.jpg
+---
+
+# 仮説を作るときYOW
+
+---
+layout: image
+image: https://files.speakerdeck.com/presentations/d6ed0f07a94a4d5e90f607d014fcd8ad/slide_139.jpg
+---
+
+# 仮説検証をふりかえるときYOW
+
+---
+layout: image
+image: https://files.speakerdeck.com/presentations/d6ed0f07a94a4d5e90f607d014fcd8ad/slide_141.jpg
+---
+
+# YOW YOW 仮説検証していきましYOW！
+
+---
+layout: section
+---
+
 # まとめ
 
 ---
@@ -721,6 +796,13 @@ layout: section
 layout: fact
 ---
 
+# 今日のフェス
+# はこれから！
+
+---
+layout: fact
+---
+
 # 無茶苦茶
 # わいわいしていこう
 
@@ -729,3 +811,11 @@ layout: fact
 ## もちろんテキストで。
 
 </v-click>
+
+---
+
+# 参考
+
+- [武藤彩未 AYAMI MUTO ・ OFFICIAL WEB SITE](http://ayamimuto.com/)
+- [[2004.09786] Chat activity is a better predictor than chat sentiment on software developers productivity](https://arxiv.org/abs/2004.09786)
+- [シン・仮説検証 70000枚の付箋で分かった仮説検証のエッセンス / SHIN Hypothesis Testing - Speaker Deck](https://speakerdeck.com/moriyuya/shin-hypothesis-testing?slide=138)
