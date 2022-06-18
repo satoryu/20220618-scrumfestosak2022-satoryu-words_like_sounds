@@ -1,11 +1,19 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜
 
-To start the slide show:
+スクラムフェスト大阪2022の栃木トラックで発表したスライドのデータです。
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+- [スクラムフェス大阪 | Scrum Fest Osaka 2022](https://www.scrumosaka.org/)
+- [Scrum Fest Osaka 2022 - 音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜 | ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-osaka-2022/proposal/16670)
 
-Edit the [slides.md](./slides.md) to see the changes.
+## ビルド方法
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+ローカルでプレゼンテーションを実行するためのビルド方法は、以下のとおりです。
+
+```sh
+git clone https://github.com/satoryu/20220618-scrumfestosak2022-satoryu-words_like_sounds.git
+npm install
+npm run dev
+```
+
+実行後、ブラウザから http://localhost:3030 を開く。
+
